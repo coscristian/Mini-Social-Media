@@ -1,11 +1,6 @@
 # Mini-Social-Media
 In this proyect the API from https://randomuser.me/ was used to get the data of random users. You can search for people, order names alphabetically and take a look at the profile of every person
 
-#Principal Page
-[Usuarios_Principal.pdf](https://github.com/coscristian/Mini-Social-Media/files/8872894/Usuarios_Principal.pdf)
-#User Page
-[Perfil_Usuario.pdf](https://github.com/coscristian/Mini-Social-Media/files/8872895/Perfil_Usuario.pdf)
-
 ## Menu Principal
 ![Screenshot from 2022-12-02 01-57-31](https://user-images.githubusercontent.com/83193118/205234280-fe2839c3-8c14-4cf0-9163-03b58ac3d3f3.png)
 
